@@ -221,4 +221,4 @@ Games for Windows is offered as a **full free version**, providing you with all 
 Download **Games for Windows** today and elevate your gaming experience to the next level! Enjoy all features with a **safe download** and start gaming with friends!
 
 ---
-**Last updated:** 2026-10-09 16:01:25 UTC
+**Last updated:** 2026-10-09 21:31:27 UTC
